@@ -1,6 +1,9 @@
 # RPA_Challenge_Form_Filling
 UiPath bot for RPA Challenge form automation
 
+[![Watch the video](https://img.youtube.com/vi/xrOIwKnyZmk/0.jpg)](https://www.youtube.com/watch?v=xrOIwKnyZmk)
+
+
 # 🤖 RPA Challenge Bot (UiPath)
 
 This is a UiPath bot built to complete the **RPA Challenge** — a classic automation task where a bot fills out web form fields from an Excel sheet, handling dynamic element selectors on every run.
